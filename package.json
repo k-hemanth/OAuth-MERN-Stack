@@ -1,0 +1,25 @@
+{
+  "name": "oauth-mern-stack",
+  "version": "1.0.0",
+  "description": "1st commit changes",
+  "main": "index.js",
+  "scripts": {
+    "client":"npm start --prefix client",
+    "server":"npm run server --prefix server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"npm run client\" \"npm run server\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HemanthReddy17/OAuth-MERN-Stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HemanthReddy17/OAuth-MERN-Stack/issues"
+  },
+  "homepage": "https://github.com/HemanthReddy17/OAuth-MERN-Stack#readme",
+  "dependencies": {
+    "concurrently": "^5.1.0"
+  }
+}
