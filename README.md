@@ -25,11 +25,12 @@ Paste in "client/public/index.html"
 ```
 
 ### To Run This App on Your Local Machine:
--- 1 Install node modules in client, server and root dir.(Skip to line 5 if you know how to install)
--- 2 Run from root ``` npm install ```.
--- 3 Now ```cd client & npm install```
--- 4 Now back to root folder and  ```cd server & npm install```
--- 5 Run npm start in root folder. Both clinet and server will start concurrently
+- 1 Install node modules in client, server and root dir.(Skip to line 5 if you know how to install)
+- 2 Run from root ``` npm install ```.
+- 3 Now ```cd client & npm install```
+- 4 Now back to root folder and  ```cd server & npm install```
+- 5 Run npm start in root folder. Both clinet and server will start concurrently
+
 
 ```
 Server will start at Port 5000
