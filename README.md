@@ -38,3 +38,6 @@ Paste in "client/public/index.html"
 Server will start at Port 5000
 Clinet will start at Port 3000
 ```
+
+
+On your first login it will say ```Welcome, {UserName}``` and from second time ```Welcome back {UserName}```

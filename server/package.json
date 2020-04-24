@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "server":"nodemon src/app.js" 
   },
-  "author": "Hemanth",
+  "author": "Hemanth Reddy",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",

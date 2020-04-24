@@ -1,5 +1,6 @@
 {
   "name": "oauth-login-react",
+  "author": "Hemanth Reddy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
